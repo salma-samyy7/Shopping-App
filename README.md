@@ -127,7 +127,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone (https://github.com/salma-samyy7/Shopping-App.git)
+   git clone https://github.com/salma-samyy7/Shopping-App.git
    cd shopping_app
    ```
 
